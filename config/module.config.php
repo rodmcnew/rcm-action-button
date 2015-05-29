@@ -48,7 +48,7 @@ return [
                     'modules/rcm-action-button/rcm-action-button-edit.js',
                 ],
 
-                'modules/rcm/plugin.css' => [
+                'modules/rcm/modules.css' => [
                     '/modules/rcm-action-button/css/style.css'
                 ],
             ],

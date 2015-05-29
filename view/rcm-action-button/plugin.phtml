@@ -1,8 +1,4 @@
 <?php
-$this->headLink()->appendStylesheet(
-    $this->basePath() . '/modules/rcm-action-button/css/style.css'
-);
-
 $this->colorList = htmlentities(json_encode($this->config['rcmPlugin']['RcmActionButton']['colorSwatches']), ENT_QUOTES);
 ?>
 <div class="button-box"

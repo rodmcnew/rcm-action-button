@@ -43,8 +43,11 @@ return [
                 'modules/rcm-action-button/' => __DIR__ . '/../public/',
             ],
             'collections' => [
+                'modules/rcm/modules.css' => [
+                    'modules/rcm-action-button/css/style.css'
+                ],
                 // required for admin edit //
-                'modules/rcm-admin/js/rcm-admin.js' => [
+                'modules/rcm-admin/admin.js' => [
                     'modules/rcm-action-button/rcm-action-button-edit.js',
                 ],
             ],

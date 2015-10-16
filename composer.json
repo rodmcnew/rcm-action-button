@@ -1,5 +1,5 @@
 {
-    "name": "reliv/rcm-action-button",
+    "name": "rcm/action-button",
     "description": "Adds a colored action button to the Reliv Content Manager",
     "license": "BSD-3-Clause",
     "keywords": [

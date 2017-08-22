@@ -9,7 +9,6 @@
  * PHP version 5.3
  */
 return [
-
     'rcmPlugin' => [
         'RcmActionButton' => [
             'type' => 'Content Templates',
